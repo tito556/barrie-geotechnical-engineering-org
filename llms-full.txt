@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Barrie
+
+> Geotechnical engineering services in Barrie, Canada.
+
+## Services
+- [Anchors](https://barrie.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://barrie.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://barrie.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://barrie.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://barrie.geotechnical-engineering.org/deep-excavations/)
+- [Excavation Monitoring](https://barrie.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://barrie.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://barrie.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://barrie.geotechnical-engineering.org/footings/)
+- [Foundations](https://barrie.geotechnical-engineering.org/foundations/)
+- [Grain Size](https://barrie.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://barrie.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://barrie.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://barrie.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://barrie.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://barrie.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://barrie.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://barrie.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://barrie.geotechnical-engineering.org/masw/)
+- [Mat Foundations](https://barrie.geotechnical-engineering.org/mat-foundations/)
+- [Piles](https://barrie.geotechnical-engineering.org/piles/)
+- [Proctor Tests](https://barrie.geotechnical-engineering.org/proctor-tests/)
+- [Resistivity](https://barrie.geotechnical-engineering.org/resistivity/)
+- [Retaining Walls](https://barrie.geotechnical-engineering.org/retaining-walls/)
+- [Rigid Pavement](https://barrie.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://barrie.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://barrie.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://barrie.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://barrie.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Microzonation](https://barrie.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://barrie.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://barrie.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://barrie.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://barrie.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://barrie.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://barrie.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://barrie.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://barrie.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://barrie.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://barrie.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Barrie, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
